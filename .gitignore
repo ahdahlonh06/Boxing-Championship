@@ -66,3 +66,27 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+# Visual Studio temporary files
+.vs/
+x64/
+Debug/
+Release/
+ipch/
+
+# Generated build files
+*.obj
+*.pch
+*.ipch
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+
+# User-specific settings
+*.vcxproj.user
+*.suo
+*.VC.db
+*.VC.opendb
